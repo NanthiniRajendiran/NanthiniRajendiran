@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @NanthiniRajendiran
 - 👀 I’m interested in Database Management
 - 🌱 I’m currently doing my Data Analytics course in EduBridge
-- 💞️ I’m looking to collaborate on projects related with SQL
+- 💞️ I’m looking to collaborate on projects related with Data analytics
 - 📫 You can reach me through nanthiniapril98@gmail.com
 
 <!---

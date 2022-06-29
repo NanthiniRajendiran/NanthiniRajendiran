@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @NanthiniRajendiran
+- ##Hello! 👋 Welcome to my Github Page##
 - 👀 I’m interested in Database Management
 - 🌱 I’m currently doing my Data Analytics course in EduBridge
 - 💞️ I’m looking to collaborate on projects related with Data analytics

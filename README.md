@@ -10,9 +10,9 @@
  
  ### Social Handle - Connect With me on these platforms: ###
  
- LinkedIn : <https://www.linkedin.com/in/nanthini-rajendiran>
+ * LinkedIn : <https://www.linkedin.com/in/nanthini-rajendiran>
  
- Gmail : <nanthiniapril98@gmail.com>
+ * Gmail : <nanthiniapril98@gmail.com>
  
  Don't Forget to check my latest projects: 
 <!---

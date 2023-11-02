@@ -4,7 +4,9 @@
  
  About Me:
       
- I'm an aspiring Data Analyst.
+ I'm an aspiring Software Engineer.
+
+ Currently Working in Accenture as a SAP ABAP Developer.
        
  I have completed my B.E.Computer Science and Engineering at SVS College Of Engineering,Coimbatore.
  
